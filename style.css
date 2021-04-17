@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+    border-style: hidden;
+    border-width: 5px;
+    margin: 25px;
+    background-color: aliceblue;
+
+    
+}
+header{
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+section {
+    padding: 15px;
+}
+h3{
+    font-size: 25px;
+}
+ul{
+    padding: 5px;
+}
+h5 {
+    font-size: 15px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
